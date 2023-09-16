@@ -1,7 +1,7 @@
-# PicaxeSQL
+# PickaxeSQL
 A clone of SQLite/SQL made in Dart with the purpose of simplifying SQL to it's extreme.
 
-![Alt text](https://raw.githubusercontent.com/ThePoeticPoorMan/PicaxeSQL/main/Novo%20Projeto.png)
+![Alt text](https://raw.githubusercontent.com/ThePoeticPoorMan/PicaxeSQL/main/PickaxeSQL.png)
 ### Description
 
 This is just a simple clone of SQLite meant to simplify SQL (mainly because i'm dumb

@@ -1,0 +1,15 @@
+name: PickaxeSQL
+description: A clone of SQLite/SQL made in Dart with the purpose of simplifying SQL to it's extreme.
+version: 0.0.1
+
+environment:
+  sdk: '>=2.12.0'
+
+dependencies:
+  io: '>=0.0.1'
+  path: '>0.0.1'
+
+dev_dependencies:
+  # Add your development dependencies here
+
+# Additional configuration options can go here
